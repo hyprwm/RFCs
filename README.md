@@ -126,9 +126,9 @@ _In short, to get a major change propagated to the HyprWM organization or to a
 project under the HyprWM organization, one must first get an RFC merged into the
 RFC repository as a markdown file under the `rfcs` directory, with the file name
 `XXXX-<name>.md` where the `XXXX` in the name stands for the RFC number,
-starting from `0000` At that point the RFC is accepted, and may be implemented
-with the goal of eventual inclusion into HyprWM or a project under the HyprWM
-organization._
+starting from `0000`. A template is available in the root of this repository. At
+that point the RFC is accepted, and may be implemented with the goal of eventual
+inclusion into HyprWM or a project under the HyprWM organization._
 
 <div align="center">
     <img src="./assets/rfc-process.png" alt="RFC Process">
